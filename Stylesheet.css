@@ -1,0 +1,51 @@
+h1{
+    color: black;
+    font-family:"Comic Sans MS";
+    font-size: 72px;
+    background: -webkit-linear-gradient(#ffffff,#000000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+}
+h2{
+    color: black;
+    font-family:"Comic Sans MS";
+    font-size: 30px;
+    background: -webkit-linear-gradient(#ffffff,#000000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+}
+h4{
+    color: black;
+    font-family:"Comic Sans MS";
+    font-size: 25px;
+    background: -webkit-linear-gradient(#ffffff,#000000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+}
+
+#image{
+    height: 275px;
+    width: 300px;
+    border: 0px;
+}
+
+head{
+    background-color: azure;
+}
+body {
+    background-image: url("skies.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    font-family: "Comic Sans MS"
+    font-size: 20px;
+    color: white;
+}
+
+
